@@ -1,6 +1,6 @@
 # Daily_CS 
 
-## Day 1
+## Day 1 
 ### 1. GET 방식과 POST 방식의 차이<br>
 질문. GET방식과 POST방식의 차이에 대하여 설명하세요.<br>
 
