@@ -64,3 +64,15 @@
    Model은 데이터를 처리하는 영역이며, <br>
    View는 사용자에게 보여질 화면을 처리하는 영역이고,<br>
    Controller는 사용자의 요청을 처리하는 영역을 말합니다.<br>
+
+## Day 7
+### 1. Rest의 개념이란?<br>
+질문. REST에 대해 설명하세요.<br>
+답변
+  -> REST란 Representational State Transfer의 약자로 자원을 이름으로 구분하여 
+  해당 자원의 상태를 주고 받는 것을 말합니다.
+  
+  HTTP URI를 통해 자원을 명시하고 
+  HTTP Method를 통해 해당 자원에 대한 상태를 주고 받는 방식을 말합니다.
+ - url : http://www.google.co.kr:80/hakawati/
+ - uri : http://www.google.co.kr:80/hakawati/uri.phhp?url=urn=#Rnfwoa
