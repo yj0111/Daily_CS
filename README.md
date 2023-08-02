@@ -76,3 +76,9 @@
   HTTP Method를 통해 해당 자원에 대한 상태를 주고 받는 방식을 말합니다.
  - url : http://www.google.co.kr:80/hakawati/
  - uri : http://www.google.co.kr:80/hakawati/uri.phhp?url=urn=#Rnfwoa
+
+
+## Day 8
+### 1. 프레임워크 vs 라이브러리<br>
+질문. 프레임워크와 라이브러리의 차이에 대해 설명하세요.<br>
+
