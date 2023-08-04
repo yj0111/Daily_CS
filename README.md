@@ -11,7 +11,7 @@
 
 
 ## Day 2 
-### HTTP와 HTTPS의 차이<br>
+### HTTP와 HTTPS의 차이<br> 
 질문. HTTP와 HTTPS의 차이에 대하여 설명하세요.<br>
 
 답변  
